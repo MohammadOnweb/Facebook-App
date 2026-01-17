@@ -6,7 +6,7 @@ export default function MainPage(){
         <>
         <Navbar/>
       <div className="min-h-screen bg-gray-100">
-       Hello 
+       
          </div>
        
         </>
